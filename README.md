@@ -1,11 +1,13 @@
 # Graph Algorithm Visulaizer
 Graph Algorithm Visualizer
 ## Description of A*, bfs, dfs
-![Screenshot (45)](https://user-images.githubusercontent.com/74409562/129458547-8e6f3d0e-9dde-432e-a9c6-e8841963699d.png)
+![image](https://user-images.githubusercontent.com/76651951/172062054-aa83efc5-72ae-44fd-87e7-dbf6236c3b3f.png)
 ## A*
-![Screenshot (47)](https://user-images.githubusercontent.com/74409562/129458550-091c393a-d489-410e-b5f5-4bacf12c1a38.png)
+![image](https://user-images.githubusercontent.com/76651951/172062079-149308d3-3fbb-404d-8d30-ac867063a682.png)
+
 ## BFS
-![Screenshot (48)](https://user-images.githubusercontent.com/74409562/129458551-d7a47596-914d-4d28-a98c-33879d9d022e.png)
+![image](https://user-images.githubusercontent.com/76651951/172062105-b82d5af3-7519-4c76-948e-ffc771953241.png)
+
 ## DFS
-![Screenshot (49)](https://user-images.githubusercontent.com/74409562/129458553-b0211496-0156-4ea3-a4c7-794011c36890.png)
+![image](https://user-images.githubusercontent.com/76651951/172062129-041dd292-bd71-4e72-a97e-acfe20d64326.png)
 
